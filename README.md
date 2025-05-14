@@ -1,5 +1,5 @@
 <h1 align="center" style="animation: slideIn 1.5s ease-in-out;">Hi 👋, I'm Mohamed Maher</h1>
-<h3 align="center" style="animation: fadeIn 2s ease-in-out;">🚀 Passionate AI/ML Engineer | Deep Learning, NLP, and Computer Vision 🚀</h3>
+<h3 align="center" style="animation: fadeIn 2s ease-in-out;">🚀 Passionate AI/ML Engineer | Deep Learning, NLP, and Computer Vision. 🚀</h3>
 
 <!-- Square-style photo -->
 <p align="center" style="animation: zoomIn 2s ease-in-out;">
